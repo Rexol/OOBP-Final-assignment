@@ -50,7 +50,7 @@ function buildMap(numberOfRooms, names, connections, mobs) {
 }
 
 /**
- * Checks whether it's possible to get the target room from the spawn.
+ * Checks whether it's possible to get to the target room from the spawn.
  * Uses Breadth first search.
  * 
  * @param {Room} spawn 
