@@ -1,0 +1,790 @@
+{
+  "ul": {
+    "@class": "products columns-3",
+    "li": [
+      {
+        "@class": "product type-product post-9601 status-publish first instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/adaboost-study-guide/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "5.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "3.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/07/statquest_adaboost_study_guide_thumbnail.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/07/statquest_adaboost_study_guide_thumbnail.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/07/statquest_adaboost_study_guide_thumbnail.001-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/07/statquest_adaboost_study_guide_thumbnail.001-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "AdaBoost Study Guide"
+            }
+          },
+          {
+            "@href": "?add-to-cart=9601",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "9601",
+            "@data-product_sku": "",
+            "@aria-label": "Add “AdaBoost Study Guide” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-8453 status-publish instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/classification-trees-study-guide/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "5.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "3.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/05/statquest_classification_trees_study_guide.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/05/statquest_classification_trees_study_guide.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/05/statquest_classification_trees_study_guide.001-100x100.png 100w, https://statquest.org/wp-content/uploads/2020/05/statquest_classification_trees_study_guide.001-150x150.png 150w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Classification Trees Study Guide"
+            }
+          },
+          {
+            "@href": "?add-to-cart=8453",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "8453",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Classification Trees Study Guide” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-8806 status-publish last instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/gaussian-naive-bayes-study-guide/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "4.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "3.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/05/statquest_naive_bayes_guassian_study_guide.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/05/statquest_naive_bayes_guassian_study_guide.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/05/statquest_naive_bayes_guassian_study_guide.001-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/05/statquest_naive_bayes_guassian_study_guide.001-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Gaussian Naive Bayes Study Guide"
+            }
+          },
+          {
+            "@href": "?add-to-cart=8806",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "8806",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Gaussian Naive Bayes Study Guide” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-9253 status-publish first instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/gradient-descent-study-guide/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "5.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "3.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/06/gradient_descent_thumbnail.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/06/gradient_descent_thumbnail.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/06/gradient_descent_thumbnail.001-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/06/gradient_descent_thumbnail.001-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Gradient Descent Study Guide"
+            }
+          },
+          {
+            "@href": "?add-to-cart=9253",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "9253",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Gradient Descent Study Guide” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-8996 status-publish instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/jupyter-notebook-classification-trees-in-python-from-start-to-finish/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "10.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "8.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/06/tree-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/06/tree-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/06/tree-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/06/tree-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Jupyter Notebook: Classification Trees in Python from Start to Finish"
+            }
+          },
+          {
+            "@href": "?add-to-cart=8996",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "8996",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Jupyter Notebook: Classification Trees in Python from Start to Finish” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-9261 status-publish last instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/jupyter-notebook-support-vector-machines-in-python/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "10.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "8.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/06/svm-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/06/svm-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/06/svm-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/06/svm-600x600.png 600w, https://statquest.org/wp-content/uploads/2020/06/svm-100x100.png 100w, https://statquest.org/wp-content/uploads/2020/06/svm.png 720w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Jupyter Notebook: Support Vector Machines in Python"
+            }
+          },
+          {
+            "@href": "?add-to-cart=9261",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "9261",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Jupyter Notebook: Support Vector Machines in Python” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-9684 status-publish first instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/jupyter-notebook-xgboost-in-python/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "10.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "8.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/07/xgboost_tree-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/07/xgboost_tree-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/07/xgboost_tree-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/07/xgboost_tree-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Jupyter Notebook: XGBoost in Python"
+            }
+          },
+          {
+            "@href": "?add-to-cart=9684",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "9684",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Jupyter Notebook: XGBoost in Python” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-8640 status-publish instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/linear-discriminant-analysis-lda-study-guide/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "5.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "3.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/05/statquest_lda_study_guide.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/05/statquest_lda_study_guide.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/05/statquest_lda_study_guide.001-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/05/statquest_lda_study_guide.001-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Linear Discriminant Analysis (LDA) Study Guide"
+            }
+          },
+          {
+            "@href": "?add-to-cart=8640",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "8640",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Linear Discriminant Analysis (LDA) Study Guide” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-8466 status-publish last instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/linear-regression-study-guide/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "5.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "3.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/05/statquest_linear_regression_study_guide.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/05/statquest_linear_regression_study_guide.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/05/statquest_linear_regression_study_guide.001-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/05/statquest_linear_regression_study_guide.001-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Linear Regression Study Guide"
+            }
+          },
+          {
+            "@href": "?add-to-cart=8466",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "8466",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Linear Regression Study Guide” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-8809 status-publish first instock product_cat-uncategorized has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/naive-bayes-bundle/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "9.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "5.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/05/bundle_image_image.001-1-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/05/bundle_image_image.001-1-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/05/bundle_image_image.001-1-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/05/bundle_image_image.001-1-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Naive Bayes Bundle!"
+            }
+          },
+          {
+            "@href": "?add-to-cart=8809",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "8809",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Naive Bayes Bundle!” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-10720 status-publish instock product_cat-naive-bayes product_tag-naive-bayes has-post-thumbnail post-password-required downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/naive-bayes-for-genomics-python-and-r-notebooks/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/11/product_image.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/11/product_image.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/11/product_image.001-1024x1024.png 1024w, https://statquest.org/wp-content/uploads/2020/11/product_image.001-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/11/product_image.001-768x768.png 768w, https://statquest.org/wp-content/uploads/2020/11/product_image.001-600x600.png 600w, https://statquest.org/wp-content/uploads/2020/11/product_image.001-100x100.png 100w, https://statquest.org/wp-content/uploads/2020/11/product_image.001.png 1080w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Protected: Naive Bayes for Genomics: Python and R Notebooks"
+            },
+            "span": {
+              "@class": "price",
+              "span": {
+                "@class": "woocommerce-Price-amount amount",
+                "bdi": {
+                  "span": {
+                    "@class": "woocommerce-Price-currencySymbol",
+                    "#text": "$"
+                  },
+                  "#text": "0.00"
+                }
+              }
+            }
+          },
+          {
+            "@href": "?add-to-cart=10720",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "10720",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Naive Bayes for Genomics: Python and R Notebooks” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      },
+      {
+        "@class": "product type-product post-8468 status-publish last instock product_cat-naive-bayes product_tag-naive-bayes has-post-thumbnail sale downloadable virtual purchasable product-type-simple",
+        "a": [
+          {
+            "@href": "https://statquest.org/product/naive-bayes-study-guide/",
+            "@class": "woocommerce-LoopProduct-link woocommerce-loop-product__link",
+            "span": [
+              {
+                "@class": "onsale",
+                "#text": "Sale!"
+              },
+              {
+                "@class": "price",
+                "del": {
+                  "@aria-hidden": "true",
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "5.00"
+                    }
+                  }
+                },
+                "ins": {
+                  "span": {
+                    "@class": "woocommerce-Price-amount amount",
+                    "bdi": {
+                      "span": {
+                        "@class": "woocommerce-Price-currencySymbol",
+                        "#text": "$"
+                      },
+                      "#text": "3.00"
+                    }
+                  }
+                }
+              }
+            ],
+            "img": {
+              "@width": "300",
+              "@height": "300",
+              "@src": "https://statquest.org/wp-content/uploads/2020/05/statquest_multinomial_naive_bayes_study_guide.001-300x300.png",
+              "@class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+              "@alt": "",
+              "@loading": "lazy",
+              "@srcset": "https://statquest.org/wp-content/uploads/2020/05/statquest_multinomial_naive_bayes_study_guide.001-300x300.png 300w, https://statquest.org/wp-content/uploads/2020/05/statquest_multinomial_naive_bayes_study_guide.001-150x150.png 150w, https://statquest.org/wp-content/uploads/2020/05/statquest_multinomial_naive_bayes_study_guide.001-100x100.png 100w",
+              "@sizes": "(max-width: 300px) 100vw, 300px"
+            },
+            "h2": {
+              "@class": "woocommerce-loop-product__title",
+              "#text": "Naive Bayes Study Guide"
+            }
+          },
+          {
+            "@href": "?add-to-cart=8468",
+            "@data-quantity": "1",
+            "@class": "button product_type_simple add_to_cart_button ajax_add_to_cart",
+            "@data-product_id": "8468",
+            "@data-product_sku": "",
+            "@aria-label": "Add “Naive Bayes Study Guide” to your cart",
+            "@rel": "nofollow",
+            "#text": "Add to cart"
+          }
+        ]
+      }
+    ]
+  }
+}
