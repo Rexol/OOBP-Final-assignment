@@ -55,7 +55,7 @@ function openPopup(data) {
     image.src = data.img;
 
     let description = document.querySelector(".popup .content .descby .description");
-    description.innerText = data.description;
+    description.innerHTML = `${data.description} <a href="${data.source}">original</a>`;
 
     let btn = document.querySelector(".popup .content .button");
     btn.addEventListener("click", () => {addToCart(data)});

@@ -106,11 +106,6 @@ header .cart-icon img {
     justify-content: space-between;
 }
 
-/* .main-cart table td, th { 
-    overflow: hidden; 
-    text-overflow: ellipsis; 
-    word-wrap: break-word;
-} */
 
 .popup {
     /* display: none; */
@@ -168,6 +163,7 @@ header .cart-icon img {
     box-sizing: content-box;
     display: flex;
     flex-direction: row;
+    height: calc(100% - 50px);
 }
 
 .popup .content .descby {
@@ -178,6 +174,8 @@ header .cart-icon img {
 }
 .popup .content .image {
     box-sizing: content-box;
+    height: 100%;
+    width: 100%;
 }
 .popup .content .image img{
     width: 100%;
