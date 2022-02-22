@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="cart.js"></script>
+    <title>ByMeCart</title>
+</head>
+<body>
+    <header>
+        <div class="content">
+            <p>BUY THIS (c) STAT QUEST</p>
+            <div class="cart-icon">
+            </div>
+        </div>
+    </header>
+
+    <div class="main-cart">
+        <div class="content">
+            <table class="cart-table">
+                <tr class="cart-table-header">
+                    <th>Product name</th>
+                    <th>Quantity</th>
+                    <th>Unit price</th>
+                    <th>Price</th>
+                </tr>
+                <!-- TR TEMPLATE -->
+                <!-- <tr id="cart-entry-9601">
+                    <td>AdaBoost Study Guide</td>
+                    <td><input id="quantity-9601" type="number" min="0" max="99" onchange="handleOnchange(this)"></td>
+                    <td id="up-9601">3.00 $</td>
+                    <td id="tp-9601">6.00 $</td>
+                </tr> -->
+                <!-- TR TEMPLATE-->
+            </table>
+            <hr>
+            <div class="result">
+                <div>In total: </div>
+                <div class="total"></div>
+                <div>$</div>
+            </div>
+            <div class="buttons">
+                <input type="button" value="GO BACK" onclick="closeCart()">
+                <input type="button" value="CHECK OUT" onclick="alert('Thanx for buying.'); window.localStorage.clear(); window.location.href='index.html';">
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <div class="content">
+            (c) made by me, all rights reserved
+        </div>
+    </footer>
+    
+</body>
+</html>
